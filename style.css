@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+ background-color: #ccabcf;
+  color: #7a0076;
+}
+
+h1 {
+  color: #3c4167;
+}
+a {
+  color: #e8abcf
+}
